@@ -1,13 +1,13 @@
 <h3 style="font-size:21px; border-bottom: 2px solid; width:max-content">Olá Mundo! 👋🏾</h3>
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin-top: 20px; border:none;">
   <tr >
-    <td>
+    <td valign="top" style="padding-right: 20px; border:none;">
       <h1>Maico da Silva Corrêa</h1>
       <h3>Desenvolvedor Full-Stack | React | Laravel | SQL</h3>
     </td>
-    <td>
+    <td style="text-align: right; border:none;">
       <img src="fotominecraft.png" height="300" alt="Avatar de Maico">
     </td>
   </tr>
