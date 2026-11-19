@@ -5,12 +5,12 @@
 <div style="display:flex; align-items:start;justify-content:space-around; width:auto;
  padding: 20px; border-radius: 10px; margin-top: 20px; margin-bottom: 20px;">
     <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:flex-start; padding: 10px;">
-        <h1 style=" border-bottom: 2px solid; font-size: 33px; margin-bottom: 10px;">
+        <h1 style=" border-bottom: 2px solid; font-size: 24px; margin-bottom: 10px;">
             Maico da Silva Corrêa</h1>
         <h3 style="font-size:18px; ">
             Desenvolvedor Full-Stack | React | Laravel | SQL</h3>
     </div>
-        <img src="fotominecraft.png" alt="Foto de Maico Corrêa do Minecraft" style="height:300px;">
+        <img src="fotominecraft.png" alt="Foto de Maico Corrêa do Minecraft" style="height:150px;">
 </div>
 </div>
 
