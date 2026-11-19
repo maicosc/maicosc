@@ -1,17 +1,12 @@
 <h3 style="font-size:21px; border-bottom: 2px solid; width:max-content">Olá Mundo! 👋🏾</h3>
 
 
-<table style="width: 100%; border:0 !important;">
-  <tr style="border:0 !important;">
-    <td valign="top" style="padding-right: 20px; border:0 !important;">
-      <h1>Maico da Silva Corrêa</h1>
-      <h3>Desenvolvedor Full-Stack | React | Laravel | SQL</h3>
-    </td>
-    <td style="text-align: right; border:0 !important;">
-      <img src="fotominecraft.png" height="300" alt="Avatar de Maico">
-    </td>
-  </tr>
-</table>
+<img align="right" src="fotominecraft.png" height="300" alt="Avatar de Maico">
+
+<h1>Maico da Silva Corrêa</h1>
+<h3>Desenvolvedor Full-Stack | React | Laravel | PostgreSQL</h3>
+
+<br clear="right">
 
 <h3 style="font-size:21px; border-bottom: 2px solid; width:max-content">Sobre Mim</h3>
 <p style="font-size: 15px;">Sou Desenvolvedor Full-Stack e também atuo com Suporte Técnico, unindo conhecimentos em desenvolvimento de software, integração de sistemas e atendimento ao usuário para criar e manter soluções tecnológicas.
