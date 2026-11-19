@@ -3,7 +3,7 @@
 
 <img align="right" src="fotominecraft.png" height="300" alt="Avatar de Maico">
 
-<h1>Maico da Silva Corrêa</h1>
+<h1 style="font-size:28px;border-bottom: 2px solid; width:max-content">Maico da Silva Corrêa</h1>
 <h3>Desenvolvedor Full-Stack | React | Laravel | PostgreSQL</h3>
 
 <br clear="right">
